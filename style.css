@@ -17,6 +17,17 @@ table{
 	padding: 20px;
 }
 
-.profiles{
-	text-align: center;
+.heading{
+	background-color: white;
+	color: black;
+	text-align: left;
+	padding-left: 10px;
+	padding-right: 20px;
+	font-weight: bolder;
+}
+
+th{
+	border: 2px solid white;
+	padding-left: 10px;
+	padding-right: 10px;
 }
