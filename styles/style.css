@@ -9,14 +9,15 @@ h1{
 	font-family: 'Trochut', cursive;
 	color:white;
 	text-align: center;
-	padding:10px;
+	padding:2px;
+	margin-bottom: 0px;
 	font-size: 50px;
 }
 
 p{
 	color: white;
 	text-align: center;
-	padding: 5px;
+	padding: 2px;
 }
 
 table{
@@ -43,4 +44,21 @@ th{
 img{
 	width:60px;
 	padding: 10px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+.planet{
+	background-color: white;
+	color: black
+}
+
+.planet:hover{
+	background-color: #52C4FF;
+	color: black;
+	border: 2px solid blue;
 }
